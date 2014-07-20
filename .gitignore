@@ -3,3 +3,9 @@
 ################################################################################
 
 /Ember_ES/obj/Debug
+/Ember_ES/Ember_ES.Contracts/obj/Debug
+/Ember_ES/Ember_ES.Core/obj/Debug
+/Ember_ES/Ember_ES.Core.Read/obj/Debug
+/Ember_ES/Ember_ES.Core.Write/obj/Debug
+/Ember_ES/Ember_ES.Events/obj/Debug
+/Ember_ES/packages
